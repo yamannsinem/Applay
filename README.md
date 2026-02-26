@@ -158,4 +158,5 @@ Information Architecture Study
 
 ### 🔗 Interactive Prototype
  [View Prototype](https://www.figma.com/proto/Sa2Hg2kru5x35k6GfsUZio/Applay-uygulama-Ma%C4%9Fazas%C4%B1--Copy-?node-id=0-1&t=9IgNFmxqMKtAPsrY-1)
- [Design](https://www.figma.com/design/Sa2Hg2kru5x35k6GfsUZio/Applay-uygulama-Ma%C4%9Fazas%C4%B1--Copy-?node-id=0-1&t=9IgNFmxqMKtAPsrY-1)
+ 
+ [View Design](https://www.figma.com/design/Sa2Hg2kru5x35k6GfsUZio/Applay-uygulama-Ma%C4%9Fazas%C4%B1--Copy-?node-id=0-1&m=dev&t=9IgNFmxqMKtAPsrY-1)
